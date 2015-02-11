@@ -1,3 +1,8 @@
+//Parte 01: Introducimos notas hasta que el usuario teclee 0, calcular la cantidad de notas de cada tipo y mostrar un histograma con la 
+//cantidad de notas de cada una ej: Nota1: ***, Nota2: ** ...
+//Parte 02: Clacular cual de todas las Notas es la mas numerosa. Se mostrara la nota con la cantidad de veces que se ha introducido
+//Parte 03: Se creara un metod para pedir las notas que controle que solo se introducen Numeros y solo numeros del 1 al 10
+
 import java.io.*;
 
 public class ExamenPrueba110215
